@@ -2,7 +2,7 @@
 
 <img align="right" width="370" height="290" src="https://camo.githubusercontent.com/e27af0197bb54d9ff21d2708649811ca6f7fc44f6b7e653f13681e4d2170ce1e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36362f38332f33652f36363833336530376436666239656235643732346534376430633831343238352e6769663f7261773d74727565">
                                                
-- 🌱 I'm currently learning backend development cloud technologies scalable architectures and Data Structures & Algorithms
+- 🌱 I'm currently learning backend development , cloud technologies,  scalable architectures and Data Structures & Algorithms<br/>
 - 🎯 Focused on building impactful software solutions while strengthening problem-solving skills
 
 * Reach Out to Me
