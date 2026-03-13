@@ -6,6 +6,7 @@
 - 🎯 Focused on building impactful software solutions while strengthening problem-solving skills
 
 - Reach Out to Me
+  -<br/>
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/surya-m18/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_ms_official_01/)<br/> [<img src="https://img.icons8.com/fluency/48/gmail-new.png"/>](suryasit2027@gmail.com)
 
 - ⚡ Fun fact: I enjoy turning innovative ideas into practical software solutions.
