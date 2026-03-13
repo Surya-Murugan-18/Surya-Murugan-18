@@ -11,27 +11,11 @@
 - ⚡ Fun fact: I enjoy turning innovative ideas into practical software solutions.
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
-<img width="50" height="50" src="https://img.icons8.com/color/48/flutter.png"/>
-<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-color-tal-revivo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/flutter.png"/><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-color-tal-revivo.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
 
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  
-<img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
-<img height="50" width="50" src="https://image2url.com/r2/default/images/1773402548487-2839f983-5c35-4037-8dda-ec4a5169aeaa.png"/>
-<img height="50" width="50" src="https://image2url.com/r2/default/images/1773402753090-e153853d-2427-4c0c-8eec-c3497edbb8ed.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" width="50" src="https://image2url.com/r2/default/images/1773402548487-2839f983-5c35-4037-8dda-ec4a5169aeaa.png"/><img height="50" width="50" src="https://image2url.com/r2/default/images/1773402753090-e153853d-2427-4c0c-8eec-c3497edbb8ed.png"/>
 
 
 
