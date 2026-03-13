@@ -5,9 +5,13 @@
 - 🌱 I'm currently learning backend development cloud technologies scalable architectures and Data Structures & Algorithms
 - 🎯 Focused on building impactful software solutions while strengthening problem-solving skills
 
-- Reach Out to Me
-  -<br/>
- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/surya-m18/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_ms_official_01/)<br/> [<img src="https://img.icons8.com/fluency/48/gmail-new.png"/>](suryasit2027@gmail.com)
+* Reach Out to Me
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/surya-m18/)
+  
+[<img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_ms_official_01/)
+  
+[<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:suryasit2027@gmail.com)
 
 - ⚡ Fun fact: I enjoy turning innovative ideas into practical software solutions.
 
@@ -21,8 +25,8 @@
 
 
 
-![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surya-Murugan-18&theme=dark&show_icons=true&&hide=issues,contribs)
+![Surya Murugan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surya-Murugan-18&theme=dark&show_icons=true&&hide=issues,contribs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-Murugan-18&layout=compact)
 
-[![Surya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Surya-Murugan-18&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Surya Murugan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Surya-Murugan-18&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
