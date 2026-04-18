@@ -16,27 +16,31 @@
 - ⚡ Fun fact: I enjoy turning innovative ideas into practical software solutions.
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" style="margin-right:10px;" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" style="margin-right:10px;" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" style="margin-right:10px;" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" style="margin-right:10px;"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" style="margin-right:10px;" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" style="margin-right:10px;" /><img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png" style="margin-right:15px;" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" style="margin-right:10px;" /><img height="50" width="50" src="https://img.icons8.com/color/48/flutter.png" style="margin-right:10px;" /><img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-color-tal-revivo.png" style="margin-right:10px;" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" style="margin-right:10px;" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-
-
-
 <p align="left">
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/color/48/python.png"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png"/>
-  <img src="https://img.icons8.com/color/48/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/css3.png"/>
-  <img src="https://img.icons8.com/color/48/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png"/>
-  <img src="https://img.icons8.com/color/48/flutter.png"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/python.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/nodejs.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/flutter.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png"/>
 </p>
 
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" width="50" src="https://img.icons8.com/officel/80/java-eclipse.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/><img height="50" width="50" src="https://img.icons8.com/ios-filled/50/vercel.png"/><img height="50" width="50" src="https://cdn.simpleicons.org/render/46E3B7"/>
+### IDE and Tools I Use
+<p align="left">
+  <img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/50/git.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/officel/80/java-eclipse.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/figma--v1.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/ios-filled/50/vercel.png"/>
+  <img height="50" width="50" src="https://cdn.simpleicons.org/render/46E3B7"/>
+</p>
 
 
 
