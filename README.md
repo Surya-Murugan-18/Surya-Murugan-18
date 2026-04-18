@@ -20,21 +20,19 @@
 
 
 
-### I code in
-<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/python.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/nodejs.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/flutter.png" />
-  <img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hypertext-preprocessor.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png" />
-</div>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/python.png"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/css3.png"/>
+  <img src="https://img.icons8.com/color/48/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png"/>
+  <img src="https://img.icons8.com/color/48/flutter.png"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png"/>
+</p>
 
 
 ### IDE and Tools I Use
