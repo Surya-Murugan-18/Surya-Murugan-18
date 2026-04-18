@@ -20,6 +20,23 @@
 
 
 
+### I code in
+<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
+  <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/python.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/nodejs.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/flutter.png" />
+  <img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hypertext-preprocessor.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png" />
+</div>
+
+
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" width="50" src="https://img.icons8.com/officel/80/java-eclipse.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/><img height="50" width="50" src="https://img.icons8.com/ios-filled/50/vercel.png"/><img height="50" width="50" src="https://cdn.simpleicons.org/render/46E3B7"/>
 
