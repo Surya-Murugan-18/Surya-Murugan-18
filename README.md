@@ -23,8 +23,7 @@
   <img  src="https://img.icons8.com/color/48/html-5.png"/>
   <img  src="https://img.icons8.com/color/48/css3.png"/>
   <img  src="https://img.icons8.com/color/48/javascript.png"/>
-  <img  src="https://img.icons8.com/color/48/react-native.png"/>
-  <img  src="https://img.icons8.com/color/48/nodejs.png"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" style="margin:5px;"/>
   <img  src="https://img.icons8.com/color/48/flutter.png"/>
   <img  src="https://img.icons8.com/color/48/mysql-logo.png"/>
   <img  src="https://img.icons8.com/color/48/mongodb.png"/>
@@ -39,14 +38,15 @@
   <img  src="https://img.icons8.com/officel/80/java-eclipse.png"/>
   <img  src="https://img.icons8.com/color/48/figma--v1.png"/>
   <img  src="https://img.icons8.com/ios-filled/50/vercel.png"/>
-
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48"/>
 </p>
 
 
 
 ###
-
-![Surya Murugan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surya-Murugan-18&theme=dark&show_icons=true&&hide=issues,contribs)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Surya-Murugan-18&show_icons=true&theme=dark)
 
 
 
